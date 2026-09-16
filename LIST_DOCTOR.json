@@ -1,0 +1,35 @@
+{
+  "status": "success",
+  "code": 200,
+  "message": "Lấy danh sách bác sĩ thành công",
+  "data": [
+    {
+      "id": 101,
+      "fullName": "Nguyễn Văn An",
+      "specialty": "Tim mạch",
+      "phone": "0901234567",
+      "email": "an.nguyen@hospital.vn"
+    },
+    {
+      "id": 102,
+      "fullName": "Trần Thị Bình",
+      "specialty": "Nhi khoa",
+      "phone": "0907654321",
+      "email": "binh.tran@hospital.vn"
+    },
+    {
+      "id": 103,
+      "fullName": "Lê Minh Cường",
+      "specialty": "Da liễu",
+      "phone": "0912345678",
+      "email": "cuong.le@hospital.vn"
+    }
+  ],
+  "meta": {
+    "totalRecords": 150,
+    "currentPage": 1,
+    "pageSize": 3,
+    "totalPages": 50
+  },
+  "timestamp": "2026-09-16T10:30:00Z"
+}
